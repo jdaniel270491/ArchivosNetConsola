@@ -1,0 +1,13 @@
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\bin\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.exe
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\bin\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.deps.json
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\bin\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.runtimeconfig.json
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\bin\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.runtimeconfig.dev.json
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\bin\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.dll
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\bin\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.pdb
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\obj\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.csprojAssemblyReference.cache
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\obj\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.AssemblyInfoInputs.cache
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\obj\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.AssemblyInfo.cs
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\obj\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.csproj.CoreCompileInputs.cache
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\obj\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.dll
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\obj\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.pdb
+C:\Users\jdani\source\repos\DPNR_U2_A1_JONC\obj\Debug\netcoreapp3.1\DPNR_U2_A1_JONC.genruntimeconfig.cache
